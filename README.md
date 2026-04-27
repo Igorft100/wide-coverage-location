@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="http://127.0.0.1:5500/index.html" target="_blank">🚀 Ver Projeto</a>
+  <a href="https://igorft100.github.io/wide-coverage-location/" target="_blank">🚀 Ver Projeto</a>
 </p>
 
 <br>
@@ -62,7 +62,7 @@ Diferenciais:
 Abra o projeto localmente ou acesse:
 
 <p align="center">
-  <a href="http://127.0.0.1:5500/index.html" target="_blank">
+  <a href="https://igorft100.github.io/wide-coverage-location/" target="_blank">
     🚀 Ver página
   </a>
 </p>
